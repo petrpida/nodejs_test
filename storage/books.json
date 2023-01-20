@@ -1,0 +1,72 @@
+[
+  {
+    "code": "1",
+    "title": "Some title",
+    "author": "Unknown"
+  },
+  {
+    "code": "2",
+    "title": "Another title",
+    "author": "Peter Pan"
+  },
+  {
+    "code": "3",
+    "title": "TitleOfBook",
+    "author": "The Best"
+  },
+  {
+    "code": "4",
+    "title": "I Have No Idea",
+    "author": "Some Person"
+  },
+  {
+    "code": "5",
+    "title": "Title555",
+    "author": "John Black"
+  },
+  {
+    "code": "6",
+    "title": "Title666",
+    "author": "Jack Brown"
+  },
+  {
+    "code": "7",
+    "title": "bookTitle 6",
+    "author": "Franz Kafka"
+  },
+  {
+    "code": "8",
+    "title": "bookTitle 8",
+    "author": "Mr.Propper"
+  },
+  {
+    "code": "9",
+    "title": "bookTitle 9",
+    "author": "Uz Fakt Nevim"
+  },
+  {
+    "code": "10",
+    "title": "bookTitle 10",
+    "author": "Nekdo Jiny"
+  },
+  {
+    "code": "11",
+    "title": "bookTitle 11",
+    "author": "Martin Martin"
+  },
+  {
+    "code": "12",
+    "title": "bookTitle 12",
+    "author": "Pavel Petr"
+  },
+  {
+    "code": "13",
+    "title": "bookTitle 13",
+    "author": "Petr Pavel"
+  },
+  {
+    "code": "a748",
+    "title": "Who knows",
+    "author": "Dr.Who"
+  }
+]

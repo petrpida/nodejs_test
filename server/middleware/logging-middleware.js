@@ -1,7 +1,6 @@
 "use strict";
 
 const loggerFactory = require("../component/logger-factory");
-const logLevel = require("../component/log-level");
 
 let logger = loggerFactory.getLogger("middleware.logging-middleware");
 
